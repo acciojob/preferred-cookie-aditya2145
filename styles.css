@@ -4,6 +4,6 @@
 }
 
 body {
-  font-size: var(--fontsize);
+  font-size: 18px;
   color: var(--fontcolor);
 }
